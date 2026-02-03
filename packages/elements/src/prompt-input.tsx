@@ -1272,7 +1272,7 @@ export const PastedContentModalFooter = ({
 };
 
 // ============================================================================
-// PromptInputPastedContentCard – default composition (convenience)
+// PromptInputPastedContentCard – default composition
 // ============================================================================
 
 export interface PromptInputPastedContentCardProps {
